@@ -1,0 +1,11 @@
+C:\Users\klt66\Desktop\stm32\上位机\uart\bin\Debug\uart.exe.config
+C:\Users\klt66\Desktop\stm32\上位机\uart\bin\Debug\uart.exe
+C:\Users\klt66\Desktop\stm32\上位机\uart\bin\Debug\uart.pdb
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.csprojAssemblyReference.cache
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.Form1.resources
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.Properties.Resources.resources
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.csproj.GenerateResource.cache
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.csproj.CoreCompileInputs.cache
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.exe
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.pdb
+C:\Users\klt66\Desktop\stm32\上位机\uart\obj\Debug\uart.Form2.resources
